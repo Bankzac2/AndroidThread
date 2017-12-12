@@ -23,7 +23,7 @@
             android:id="@+id/threadLoadButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Thread  "
+            android:text="Thread"
             tools:layout_editor_absoluteX="16dp"
             tools:layout_editor_absoluteY="447dp" />
 
@@ -31,7 +31,7 @@
             android:id="@+id/asyncLoadButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Async  "
+            android:text="Async"
             tools:layout_editor_absoluteX="263dp"
             tools:layout_editor_absoluteY="447dp" />
     </LinearLayout>
